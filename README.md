@@ -1,39 +1,53 @@
-🎨 Frontend Development — College Lectures
+# 🌸✨ Frontend Development Journey ✨🌸
+> *A hands-on classroom + assignment repo documenting my complete learning path in HTML, CSS, and Bootstrap.*
 
-A complete repository of all lecture notes, assignments, examples, and practice tasks covered in the Frontend Development classes. This collection helps you understand concepts from HTML basics to advanced CSS layouts.
+---
 
-📚 Table of Contents Lecture Topic Description 1 Introduction to Web Development How the web works, roles, tools, workflow 2 HTML Structure and building blocks of webpages 3 Block & Inline Elements How display types affect page layout 4 HTML Iframes Embedding external websites, maps, and videos 5 CSS Basics Styling fundamentals and selectors 6 CSS Flexbox Modern one-dimensional layout system 7 CSS Box Model Margins, borders, padding, content
+## 💕 Overview
+Welcome to my **Frontend_Dev** repository — a space where I’ve documented everything I learned during my classroom sessions and assignments on front-end development!  
+From building simple HTML pages to styling them beautifully using **CSS** and **Bootstrap**, this repo shows my progress, creativity, and dedication to crafting beautiful user interfaces. 🎀
 
-🎯 Learning Objectives
+---
 
-By the end of this course, you will be able to: Understand the client–server model and how websites work Build clean, semantic webpages using HTML5 Create accessible layouts using proper HTML tags Style websites using CSS3 Use Flexbox to build responsive layouts Understand the CSS Box Model and spacing Manage your projects using Git & GitHub
+## 🏫 Classroom Lectures
 
-🧩 Lecture-wise Details & Tasks 🟩 Lecture 1 — Introduction to Web Development Topics Covered: Frontend vs Backend vs Full Stack Development Tools Setup: VS Code, Git, Live Server Browsers and Rendering Engines
+| 💻 Lecture | 📝 Topic | 🌟 Key Concepts Covered |
+|:--:|:--|:--|
+| **1** | **Introduction to HTML** | Basic web structure, elements, tags, syntax, and the anatomy of an HTML page |
+| **2** | **HTML Tags & Attributes** | Headings, paragraphs, lists, links, images, and tables with attributes |
+| **3** | **Forms and Tables** | Creating forms with inputs, buttons, labels, and designing structured tables |
+| **4** | **CSS Basics** | Inline, internal, and external CSS, selectors, colors, fonts, and background properties |
+| **5** | **Flexbox** | Understanding flex containers, items, direction, wrapping, and alignment |
+| **6** | **Bootstrap Introduction** | CDN setup, grid system basics, containers, rows, and columns |
+| **7** | **Bootstrap Components** | Buttons, navbars, cards, carousels, and responsive page structure |
 
-✅ Tasks Completed: Created College Timetable Page Designed Question Paper Template
+---
 
-🟨 Lecture 2 — HTML Topics Covered: HTML Document Structure Basic HTML tags: headings, paragraphs, links, lists Images, tables, forms Semantic Elements:
+## 💼 Assignments & Mini-Projects  
 
-, ,
-, Best practices for readable HTML
-✅ Tasks Completed: Built Examination Portal UI Created HTML Forms for user input
+| 🧩 # | 🖼️ Project Title | 💡 Description |
+|:--:|:--|:--|
+| **1** | **Resume Page** | Built a professional-looking resume layout using HTML and styled with CSS |
+| **2** | **Travel Website** | Created a responsive multipage travel website using Bootstrap grid & components |
+| **3** | **Zomate CLone**  | Designed a stylish landing page with navigation bar, hero section, and gallery using Flexbox & Bootstrap |
 
-🟦 Lecture 3 — HTML Block & Inline Elements Topics Covered: Difference between block-level vs inline elements Examples of each type Using CSS display property How elements affect layout
+---
 
-✅ Tasks Completed: Improved Examination Portal layout Practical classification of tags as block or inline
+## 🎨 Technologies Used
+| 🌸 Frontend Tools | 💻 Environment |
+|:--|:--|
+| HTML5 | Visual Studio Code |
+| CSS3 (Flexbox, Grid) | Git & GitHub |
+| Bootstrap 5 | Live Server / Browser DevTools |
 
-🟧 Lecture 4 — HTML Iframes Topics Covered: Embedding external content using <iframe> Attributes: src, width, height, allowfullscreen Embedding YouTube, Google Maps Security features: sandbox, referrerpolicy
+---
 
-✅ Tasks Completed: Embedded YouTube Video using <iframe> Created page demonstrating multiple iframe use-cases
+## 🧭 How to Explore
+```bash
+# Clone the repository
+git clone https://github.com/SukanshiGarg/Frontend_Dev.git
 
-🟥 Lecture 5 — CSS Basics Topics Covered: Ways to add CSS: inline, internal, external Selectors & properties Text formatting, colors, backgrounds Borders, spacing, fonts Intro to layout styling
+# Open in VS Code
+cd Frontend_Dev
 
-✅ Tasks Completed: Styled Examination Portal Created Basic Styled Webpage using external CSS
-
-🟪 Lecture 6 — CSS Flexbox Topics Covered: Flex container properties: display: flex, justify-content, align-items, flex-wrap Flex item properties: flex-grow, flex-shrink, flex-basis Building navbars, cards, gallery layouts
-
-✅ Tasks Completed: Designed Flexbox-based Layout Created Responsive Card Section
-
-🟫 Lecture 7 — CSS Box Model Topics Covered: Components: content, padding, border, margin box-sizing: content-box vs border-box Using DevTools to visualize layout How spacing affects design
-
-✅ Tasks Completed: Created Box Model Demonstration Page Practiced margin & padding layouts
+# Run any HTML file using Live Server or open in your browser
