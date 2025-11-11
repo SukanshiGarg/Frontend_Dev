@@ -1,0 +1,52 @@
+/* *{
+    position:absolute;
+} */
+
+/* static relative fixed sticky */
+
+.container{
+    width:1000px;
+    height: 1000px;
+    background-color:pink;
+    margin:0 auto;
+}
+
+.box1{
+    width:200px;
+    height:200px;
+    border:10px solid transparent;
+    text-align:center;
+    background-color: aqua;
+    padding: 5.0%;
+    /* box-sizing: border-box; */
+    position:relative;
+    left:350px;
+    right:500px;
+
+}
+
+.box2{
+    width:200px;
+    height:200px;
+    border:10px solid transparent;
+    text-align:center;
+    background-color: beige;
+    padding: 5.0%;
+    position:relative;
+    right:500px;
+    left:350px;
+     /* box-sizing: border-box; */
+}
+
+.box3{
+    width:200px;
+    height:200px;
+    border:10px solid transparent;
+    text-align:center;
+    background-color: fuchsia;
+    padding: 5.0%;
+     /* box-sizing: border-box; */
+    position:relative;
+    right:500px;
+    left:350px;
+}
