@@ -1,48 +1,63 @@
-# 🌸✨ Frontend Development Journey ✨🌸
-> *A hands-on classroom + assignment repo documenting my complete learning path in HTML, CSS, and Bootstrap.*
+Frontend Development Journey 
+> *A complete collection of my classroom practice & assignments in HTML, CSS, and Bootstrap.*
 
 ---
 
-## 💕 Overview
-Welcome to my **Frontend_Dev** repository — a space where I’ve documented everything I learned during my classroom sessions and assignments on front-end development!  
-From building simple HTML pages to styling them beautifully using **CSS** and **Bootstrap**, this repo shows my progress, creativity, and dedication to crafting beautiful user interfaces. 🎀
+##  Project Overview  
+Welcome to my **Frontend_Dev** repository 💻  
+This repo showcases everything I’ve learned throughout my **frontend development training** — from mastering **HTML structure**, exploring **CSS styling**, and building responsive layouts using **Bootstrap**.  
+
+It contains both **classroom exercises** (for hands-on concepts) and **assignments** (for real project implementation).  
+Every folder here reflects my growth as a frontend developer and my creative approach to design 🌷  
 
 ---
 
-## 🏫 Classroom Lectures
+## 🗂 Folder Structure  
+
+| 📁 Folder | 📋 Description |
+|------------|----------------|
+| `ClassRoom/` | Contains all lecture-based practice code — HTML, CSS & Bootstrap topics. |
+| `Assignments/` | Includes my creative and structured assignments demonstrating all learned concepts. |
+| `README.md` | This beautiful overview file ✨ |
+
+---
+
+## 🏫 Lecture-wise Topics  
 
 | 💻 Lecture | 📝 Topic | 🌟 Key Concepts Covered |
 |:--:|:--|:--|
-| **1** | **Introduction to HTML** | Basic web structure, elements, tags, syntax, and the anatomy of an HTML page |
-| **2** | **HTML Tags & Attributes** | Headings, paragraphs, lists, links, images, and tables with attributes |
-| **3** | **Forms and Tables** | Creating forms with inputs, buttons, labels, and designing structured tables |
-| **4** | **CSS Basics** | Inline, internal, and external CSS, selectors, colors, fonts, and background properties |
-| **5** | **Flexbox** | Understanding flex containers, items, direction, wrapping, and alignment |
-| **6** | **Bootstrap Introduction** | CDN setup, grid system basics, containers, rows, and columns |
-| **7** | **Bootstrap Components** | Buttons, navbars, cards, carousels, and responsive page structure |
+| **1** | **Introduction to HTML** | Web structure, tags, elements, head/body structure |
+| **2** | **HTML Tags & Attributes** | Headings, paragraphs, links, lists, and attributes |
+| **3** | **Forms and Tables** | Input fields, labels, buttons, and tabular layouts |
+| **4** | **CSS Basics** | Selectors, colors, text styling, background, spacing |
+| **5** | **Flexbox** | Layout direction, alignment, justify-content, wrapping |
+| **6** | **Bootstrap Introduction** | Containers, rows, columns, responsive grid |
+| **7** | **Bootstrap Components** | Navbars, cards, buttons, modals, carousel, responsiveness |
 
 ---
 
-## 💼 Assignments & Mini-Projects  
+## 💼 Assignments & Projects  
 
-| 🧩 # | 🖼️ Project Title | 💡 Description |
+| 🧩 # | 🖼️ Project | 💡 Description |
 |:--:|:--|:--|
-| **1** | **Resume Page** | Built a professional-looking resume layout using HTML and styled with CSS |
-| **2** | **Travel Website** | Created a responsive multipage travel website using Bootstrap grid & components |
-| **3** | **Zomate CLone**  | Designed a stylish landing page with navigation bar, hero section, and gallery using Flexbox & Bootstrap |
+| **1** | **Resume Page** | Structured and styled resume using HTML & CSS |
+| **2** | **Travel Website** | Responsive travel-themed website using Bootstrap grid & components |
+| **3** | **Restaurant Landing Page** | Designed homepage with navbars, hero section, gallery, and Flexbox |
 
 ---
 
-## 🎨 Technologies Used
-| 🌸 Frontend Tools | 💻 Environment |
+## 🎨 Technologies Used  
+
+| 🌸 Core Skills | 🛠 Tools |
 |:--|:--|
 | HTML5 | Visual Studio Code |
-| CSS3 (Flexbox, Grid) | Git & GitHub |
+| CSS3 (Flexbox, Grid, Animations) | Git & GitHub |
 | Bootstrap 5 | Live Server / Browser DevTools |
 
 ---
 
-## 🧭 How to Explore
+## 🚀 How to Explore  
+
 ```bash
 # Clone the repository
 git clone https://github.com/SukanshiGarg/Frontend_Dev.git
@@ -50,4 +65,4 @@ git clone https://github.com/SukanshiGarg/Frontend_Dev.git
 # Open in VS Code
 cd Frontend_Dev
 
-# Run any HTML file using Live Server or open in your browser
+# Run with Live Server or open any .html file directly
