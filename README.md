@@ -1,68 +1,214 @@
-Frontend Development Journey 
-> *A complete collection of my classroom practice & assignments in HTML, CSS, and Bootstrap.*
+# 🎨 Frontend Development — College Lectures
+
+A complete repository of all **lecture notes, assignments, examples, and practice tasks** covered in the *Frontend Development* classes.
+This collection helps you understand concepts from **HTML basics to advanced CSS layouts, responsive design, and JavaScript programming**.
 
 ---
 
-##  Project Overview  
-Welcome to my **Frontend_Dev** repository 💻  
-This repo showcases everything I’ve learned throughout my **frontend development training** — from mastering **HTML structure**, exploring **CSS styling**, and building responsive layouts using **Bootstrap**.  
+# 📚 Table of Contents
 
-It contains both **classroom exercises** (for hands-on concepts) and **assignments** (for real project implementation).  
-Every folder here reflects my growth as a frontend developer and my creative approach to design 🌷  
-
----
-
-## 🗂 Folder Structure  
-
-| 📁 Folder | 📋 Description |
-|------------|----------------|
-| `ClassRoom/` | Contains all lecture-based practice code — HTML, CSS & Bootstrap topics. |
-| `Assignments/` | Includes my creative and structured assignments demonstrating all learned concepts. |
-| `README.md` | This beautiful overview file ✨ |
+| Lecture | Topic                           | Description                                                |
+| ------- | ------------------------------- | ---------------------------------------------------------- |
+| 1       | Introduction to Web Development | How the web works, roles, tools, workflow                  |
+| 2       | HTML                            | Structure and building blocks of webpages                  |
+| 3       | Block & Inline Elements         | How display types affect page layout                       |
+| 4       | HTML Iframes                    | Embedding external websites, maps, and videos              |
+| 5       | CSS Basics                      | Styling fundamentals and selectors                         |
+| 6       | CSS Flexbox                     | Modern one-dimensional layout system                       |
+| 7       | CSS Box Model                   | Margins, borders, padding, content                         |
+| 8–9     | Bootstrap                       | Responsive layouts and components using Bootstrap          |
+| 10–11   | JavaScript                      | Introduction, variables, operators, and control statements |
 
 ---
 
-## 🏫 Lecture-wise Topics  
+# 🎯 Learning Objectives
 
-| 💻 Lecture | 📝 Topic | 🌟 Key Concepts Covered |
-|:--:|:--|:--|
-| **1** | **Introduction to HTML** | Web structure, tags, elements, head/body structure |
-| **2** | **HTML Tags & Attributes** | Headings, paragraphs, links, lists, and attributes |
-| **3** | **Forms and Tables** | Input fields, labels, buttons, and tabular layouts |
-| **4** | **CSS Basics** | Selectors, colors, text styling, background, spacing |
-| **5** | **Flexbox** | Layout direction, alignment, justify-content, wrapping |
-| **6** | **Bootstrap Introduction** | Containers, rows, columns, responsive grid |
-| **7** | **Bootstrap Components** | Navbars, cards, buttons, modals, carousel, responsiveness |
-
----
-
-## 💼 Assignments & Projects  
-
-| 🧩 # | 🖼️ Project | 💡 Description |
-|:--:|:--|:--|
-| **1** | **Resume Page** | Structured and styled resume using HTML & CSS |
-| **2** | **Travel Website** | Responsive travel-themed website using Bootstrap grid & components |
-| **3** | **Restaurant Landing Page** | Designed homepage with navbars, hero section, gallery, and Flexbox |
+* Understand the **client–server model** and how websites work
+* Build **semantic and accessible webpages** using HTML5
+* Style websites using **CSS3**, **Flexbox**, and **Bootstrap**
+* Design **responsive layouts** for all screen sizes
+* Write **JavaScript programs** to make webpages interactive
+* Understand **variables, data types, and operators** in JS
+* Implement **control statements** for logic flow
+* Manage your projects using **Git & GitHub**
 
 ---
 
-## 🎨 Technologies Used  
+# 🧩 Lecture-wise Details & Tasks
 
-| 🌸 Core Skills | 🛠 Tools |
-|:--|:--|
-| HTML5 | Visual Studio Code |
-| CSS3 (Flexbox, Grid, Animations) | Git & GitHub |
-| Bootstrap 5 | Live Server / Browser DevTools |
+## 🟩 Lecture 1 — Introduction to Web Development
+
+**Topics Covered:**
+
+* What is the Internet? How websites load?
+* Client, Server, and Rendering
+* Frontend vs Backend vs Full Stack
+* Development Tools Setup: VS Code, Git, Live Server
+* Browsers and Rendering Engines
+
+**✅ Tasks Completed:**
+
+* Created *College Timetable Page*
+* Designed *Question Paper Template*
 
 ---
 
-## 🚀 How to Explore  
+## 🟨 Lecture 2 — HTML
 
-```bash
-# Clone the repository
-git clone https://github.com/SukanshiGarg/Frontend_Dev.git
+**Topics Covered:**
 
-# Open in VS Code
-cd Frontend_Dev
+* HTML Document Structure
+* Basic HTML tags: headings, paragraphs, links, lists
+* Images, tables, forms
+* Semantic Elements: `<header>`, `<main>`, `<section>`, `<footer>`
+* Best practices for readable HTML
 
-# Run with Live Server or open any .html file directly
+**✅ Tasks Completed:**
+
+* Built *Examination Portal UI*
+* Created *HTML Forms* for user input
+
+---
+
+## 🟦 Lecture 3 — HTML Block & Inline Elements
+
+**Topics Covered:**
+
+* Difference between block-level vs inline elements
+* Examples of each type
+* Using CSS `display` property
+* How elements affect layout
+
+**✅ Tasks Completed:**
+
+* Improved *Examination Portal Layout*
+* Classified HTML tags as block or inline
+
+---
+
+## 🟧 Lecture 4 — HTML Iframes
+
+**Topics Covered:**
+
+* Embedding external content using `<iframe>`
+* Attributes: `src`, `width`, `height`, `allowfullscreen`
+* Embedding YouTube, Google Maps
+* Security features: `sandbox`, `referrerpolicy`
+
+**✅ Tasks Completed:**
+
+* Embedded *YouTube Video* using `<iframe>`
+* Created *Multi-iframe Demonstration Page*
+
+---
+
+## 🟥 Lecture 5 — CSS Basics
+
+**Topics Covered:**
+
+* Ways to add CSS: inline, internal, external
+* Selectors & properties
+* Text formatting, colors, backgrounds
+* Borders, spacing, fonts
+* Introduction to layout styling
+
+**✅ Tasks Completed:**
+
+* Styled *Examination Portal*
+* Created *Basic Styled Webpage* using external CSS
+
+---
+
+## 🟪 Lecture 6 — CSS Flexbox
+
+**Topics Covered:**
+
+* **Flex container properties:** `display: flex`, `justify-content`, `align-items`, `flex-wrap`
+* **Flex item properties:** `flex-grow`, `flex-shrink`, `flex-basis`
+* Building navigation bars, cards, and gallery layouts
+
+**✅ Tasks Completed:**
+
+* Designed *Flexbox-based Layout*
+* Created *Responsive Card Section*
+
+---
+
+## 🟫 Lecture 7 — CSS Box Model
+
+**Topics Covered:**
+
+* Components: content, padding, border, margin
+* `box-sizing`: `content-box` vs `border-box`
+* Using DevTools to visualize layout
+* How spacing affects design
+
+**✅ Tasks Completed:**
+
+* Created *Box Model Demonstration Page*
+* Practiced *margin & padding layouts*
+
+---
+
+## ⬛ Lecture 8 & 9 — Bootstrap
+
+**Topics Covered:**
+
+* Introduction to **Bootstrap Framework**
+* Grid system and responsive breakpoints
+* Bootstrap utilities: spacing, text, colors
+* Components: Navbar, Cards, Buttons, Modals
+* Customizing Bootstrap with CSS overrides
+
+**✅ Tasks Completed:**
+
+* Created **Portfolio Page** using Bootstrap
+* Implemented **responsive layout** using grid and components
+
+---
+
+## 🟩 Lecture 10 & 11 — JavaScript
+
+**Topics Covered:**
+
+* Introduction to **JavaScript** and its role in web development
+* How to add JS: internal & external scripts
+* **Variables and Data Types**
+* **Operators:** arithmetic, comparison, logical
+* **Math module** and built-in functions
+* **Control statements:** `if`, `else`, `switch`, `for`, `while`, `do...while`
+* Basic DOM understanding and console testing
+
+**✅ Tasks Completed:**
+
+* Created **JavaScript Practice Files**
+* Performed **arithmetic operations using variables**
+* Implemented **control statement programs**
+
+---
+
+# 🧠 About (Tabular Format)
+
+| Field          | Details                                           |
+| -------------- | ------------------------------------------------- |
+| Course         | Frontend Development — College Coursework         |
+| Focus          | HTML, CSS, Flexbox, Bootstrap, JavaScript         |
+| Structure      | Lecture-wise organized notes, tasks, and examples |
+| Purpose        | Build strong foundation in frontend technologies  |
+| Learning Style | Practical tasks + theory + coding exercises       |
+
+---
+
+# 💻 Tools Used
+
+* Visual Studio Code
+* Git & GitHub
+* Live Server Extension
+* Chrome DevTools
+
+---
+
+# 🌐 Author
+
+**Sukanshi Garg Btech CSE**
+
